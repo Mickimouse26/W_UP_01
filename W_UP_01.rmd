@@ -1,7 +1,7 @@
 ---
 title: "W_UP_01"
 author: "Michelle Coleman"
-date: "Janaury 8, 2021"
+date: "February 8, 2021"
 output: html_document
 ---
 
@@ -89,4 +89,8 @@ The p~value is 0.000009; thus $H_0$ is highly unlikely; we reject the null hypot
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
-The original question was, "Do players on the football team in line and skill positions do on average the same number of pushups in 2 minutes
+The original question was, "Do players on the football team in line and skill positions do on average the same number of pushups in 2 minutes?
+
+Both the graphical and numberial summaries showed the skill position players did, on average more pushups in 2 minutes than did the line players.
+
+And the result is significant; too unlikely to have occured by chance;we conclude that, at least for Georgetown players (team=fighting Goldfish) the skill position players do more pushups.
