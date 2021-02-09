@@ -73,6 +73,8 @@ This boxplot shows that the Skill players seem to be able to do more pushups in 
 ```{r}
 favstats(pushups~position,data=mydata)
 ```
+The aboue graph is showing that the Skill players can do more pushups than the Line players 
+
 
 ## Inferential Results
 
